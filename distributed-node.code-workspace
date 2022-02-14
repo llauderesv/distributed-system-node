@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "recipe-api"
+		},
+		{
+			"path": "shared"
+		},
+		{
+			"path": "web-api"
+		},
+		{
+			"path": "caching"
+		},
+		{
+			"path": "dbconn"
+		}
+	]
+}

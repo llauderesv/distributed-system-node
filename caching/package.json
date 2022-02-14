@@ -1,0 +1,19 @@
+{
+  "name": "caching",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "llaudevc",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^3.27.1",
+    "lru-cache": "^7.3.1",
+    "memjs": "^1.3.0",
+    "node-fetch": "^2.6.7"
+  }
+}
