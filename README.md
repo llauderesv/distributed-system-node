@@ -2,7 +2,7 @@
 
 Learning Distributed System with Node.js. Building an Enterprise Ready Backend Services.
 
-<!-- Authored by Thomas Hunter. -->
+Authored by Thomas Hunter.
 
 <img src="./screenshots\cover.png"/>
 
